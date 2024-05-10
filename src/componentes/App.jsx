@@ -9,8 +9,12 @@ function App() {
   return (
     <>
       <div className='card'>
-        <img src="./image/imagen.png" alt="" className='imagen' />
+        <img src="./image/react2.png" alt="" className='imagen' />
+        <div className='Textos'>
+          <p className='terapia'>Terapia 2</p>
+          <p className='ejercicio'>Ejercicios pelvicos</p>
         </div>
+      </div>
     </>
   )
 }
