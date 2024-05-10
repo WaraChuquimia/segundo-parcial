@@ -10,7 +10,7 @@ function App() {
     <>
       <div className='card'>
         <img src="./imagen/imagen.png" alt="" className='imagen' />
-        <div className='Textos'>
+        <div className='Texto'>
           <p className='terapia2'>Terapia 2</p>
           <p className='ejercicios'>Ejercicios pelvicos</p>
         </div>
