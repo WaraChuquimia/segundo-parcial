@@ -11,8 +11,8 @@ function App() {
       <div className='card'>
         <img src="./image/react2.png" alt="" className='imagen' />
         <div className='Textos'>
-          <p className='terapia'>Terapia 2</p>
-          <p className='ejercicio'>Ejercicios pelvicos</p>
+          <p className='terapia2'>Terapia 2</p>
+          <p className='ejercicios'>Ejercicios pelvicos</p>
         </div>
       </div>
     </>
